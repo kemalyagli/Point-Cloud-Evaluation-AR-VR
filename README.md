@@ -33,7 +33,7 @@ Evaluation-of-the-Subjective-Quality-of-Distorted-Point-Clouds-for-AR-VR-Applica
 │   │   │   ├── data/        # Input datasets
 │   │   │   ├── functions/   # Helper functions
 │   │   │   ├── output/      # Output files (3D-Single-OUTPUTS.pdf)
-
+├── draft_paper.pdf
 ```
 
 ## 2D Analysis Scripts
@@ -174,3 +174,5 @@ Feel free to use and modify the code for academic and research purposes. Please 
 
 ## Acknowledgments
 This repository is part of the research project conducted at the University of Padua. Special thanks to my advisor, Tomaso Erseghe, and colleagues who provided guidance and support throughout this work.
+
+**Full Draft**: Available in the `draft_paper.pdf` for review.
