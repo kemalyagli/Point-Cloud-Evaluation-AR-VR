@@ -170,7 +170,8 @@ Evaluation-of-the-Subjective-Quality-of-Distorted-Point-Clouds-for-AR-VR-Applica
 ---
 
 ## License
-Feel free to use and modify the code for academic and research purposes. Please cite the publication if you use this work in your research.
+Feel free to use and modify the code for academic and research purposes.
+
 
 ## Acknowledgments
 This repository is part of the research project conducted at the University of Padua. Special thanks to my advisor, Tomaso Erseghe, and colleagues who provided guidance and support throughout this work.
