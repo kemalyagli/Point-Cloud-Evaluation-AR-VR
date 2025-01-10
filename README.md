@@ -174,6 +174,6 @@ Feel free to use and modify the code for academic and research purposes.
 
 
 ## Acknowledgments
-This repository is part of the research project conducted at the University of Padua. Special thanks to my advisor, Tomaso Erseghe, and colleagues who provided guidance and support throughout this work.
+This repository is part of the research project conducted at the University of Padua. Special thanks to my advisor, Assoc. Prof. Dr. Tomaso Erseghe, and colleagues who provided guidance and support throughout this work.
 
 **Full Draft**: Available in the `draft_paper.pdf` for review.
